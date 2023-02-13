@@ -1,3 +1,3 @@
 function ahj() {
-    document.write("anderson was here");
+    document.write("sam was here");
 }
